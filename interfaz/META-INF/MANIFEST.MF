@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 1.8.0_242-b08 (AdoptOpenJDK)
+Extension-Name: org.apache.lucene
+Specification-Title: Lucene Search Engine: core
+Specification-Version: 8.10.1
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: org.apache.lucene
+Implementation-Version: 8.10.1 2f24e6a49d48a032df1f12e146612f59141727a
+ 9 - mayyasharipova - 2021-10-12 15:13:05
+Implementation-Vendor: The Apache Software Foundation
+X-Compile-Source-JDK: 8
+X-Compile-Target-JDK: 8
+Multi-Release: true
+
